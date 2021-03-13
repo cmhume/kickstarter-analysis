@@ -17,4 +17,4 @@ Analyze Kickstarter campaign data comparing final outcomes with launch date and 
 
 ![goal_pledged_gb](https://user-images.githubusercontent.com/78699521/111037839-c66be100-83da-11eb-99da-26c528dcbab5.png)
 
-##Recommendations
+## Recommendations
