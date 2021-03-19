@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this analysis is to inform future Kickstarter campaign launches about the month to launch and goal to set by analyzing past theater Kickstarter campaign's final outcomes and pledges based on their month launched and goals set.
+The purpose of this analysis is to inform future Kickstarter campaign launches about the month to launch and goal to set by analyzing past theater Kickstarter campaign's final outcomes and plays Kickstarter campaign's pledges based on their month launched and goals set.
 
 
 ## Analysis and Challenges
