@@ -1,8 +1,14 @@
 # An Analysis of Kickstarter Campaigns
 
-## Overview
+## Overview of Project
 
-The purpose of this analysis is to inform future Kickstarter campaign launches about the relationships between launch date and final outcome and between initial goals set and ultimate pledges recieved.  This was done by analyzing past Kickstarter campaign's final outcomes from the "theater" parent category, and Kickstarter campaign's pledges based on their month launched and goals set from the "plays" subcategory.  The dataset used in this analysis was from campaigns launched between the years 2009-2017.  This data will help inform decisions on when to launch and what goals to set for a successful campaign.  This analysis focused on the subset of theater based campaigns to align with the client's likely future campaign launches.
+The purpose of this analysis is to inform future Kickstarter campaign launches about the relationships between launch date and final outcome and between initial goals set and ultimate pledges recieved.  This was done by analyzing past Kickstarter campaign's final outcomes from the "theater" parent category, and Kickstarter campaign's pledges based on their month launched and goals set from the "plays" subcategory. The dataset used in this analysis was from campaigns launched between the years 2009-2017. The original data used to perform the analysis incuded information such as name, goal, pledges, launch date, deadline, country, and category among others. The "theater" and "plays" campaign data was from a larger dataset including other campaign categories.  The complete Kickstarter dataset is available here: [Kickstarter_Challenge.zip](https://github.com/cmhume/kickstarter-analysis/files/6178596/Kickstarter_Challenge.zip)
+   
+
+### Purpose
+
+
+This data will help inform decisions on when to launch and what goals to set for a successful campaign.  This analysis focuses on theater based campaigns to align with the client's likely future campaign launches.
 
 
 ## Analysis and Challenges
