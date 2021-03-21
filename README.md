@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this analysis is to inform future Kickstarter campaign launches about the relationships between launch date and final outcome and between initial goals set and ultimate pledges recieved.  This was done by analyzing past Kickstarter campaign's final outcomes from the "theater" parent category, and Kickstarter campaign's pledges based on their month launched and goals set from the "plays" subcategory from campaigns launched between the years 2009-2017.  This data will help inform decisions on when to launch and what goals to set for a successful campaign.
+The purpose of this analysis is to inform future Kickstarter campaign launches about the relationships between launch date and final outcome and between initial goals set and ultimate pledges recieved.  This was done by analyzing past Kickstarter campaign's final outcomes from the "theater" parent category, and Kickstarter campaign's pledges based on their month launched and goals set from the "plays" subcategory.  The dataset used in this analysis was from campaigns launched between the years 2009-2017.  This data will help inform decisions on when to launch and what goals to set for a successful campaign.
 
 
 ## Analysis and Challenges
